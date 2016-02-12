@@ -1,0 +1,16 @@
+--[[
+Prints text centered at y
+Or one pixel to the left if that's not possible
+
+text: String of text to print
+y: y position to print text on
+]]
+
+local function printC(text,y)
+  if type(text) ~= "string" or type(y) ~= "number" then error("expected string,number, got "..type(text)..","..type(y),2) end
+  local lenght = #text
+  local start = math.floor((w-lenght)/2)+1
+  term.setCursorPos(start,y)
+  term.write(text)
+  return start,start+lenght
+end

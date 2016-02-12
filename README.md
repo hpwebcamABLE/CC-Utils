@@ -1,6 +1,10 @@
 # CC-Utils
 Various small functions that I like to use in my ComputerCraft programs
 
+Some of my ComputerCraft programs: [The ComputerCraft Forum](http://www.computercraft.info/forums2/index.php?/user/25696-hpwebcamable/)
+
+More of my ComputerCraft programs: [My Pastebin](http://pastebin.com/u/HPWebcamAble)
+
 ## FAQ
 **Q:** What is ComputerCraft?  
 **A:** An awesome Minecraft mod that adds programable computers to Minecraft, [check it out here](http://www.computercraft.info)
